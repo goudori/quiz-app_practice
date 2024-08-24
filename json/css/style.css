@@ -1,0 +1,36 @@
+.btn {
+  color: #fff;
+
+  background-color: hsl(184, 85%, 56%);
+
+  font-size: 60px;
+
+  width: 29%;
+
+  margin-left: 36%;
+
+  margin-top: 60px;
+}
+
+.start-btn {
+  margin-left: 3%;
+}
+
+.hollow-circle {
+  color: #dc2f08;
+  font-size: 100px;
+}
+
+.cross {
+  color: #390c8d;
+  font-size: 100px;
+}
+
+#quiz-container {
+  font-size: 30px;
+  text-align: center;
+}
+
+#correct_answer {
+  color: #dc2f08;
+}
